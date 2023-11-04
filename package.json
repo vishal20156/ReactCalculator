@@ -1,0 +1,22 @@
+{
+  "name": "maxmyne-calculator",
+  "version": "1.0.0",
+  "description": "A calculator made in react",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "react",
+    "calc"
+  ],
+  "author": "Vishal Ramnani",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.10.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
